@@ -1,0 +1,5 @@
+SimpleGAN/discriminator_plot.png
+SimpleGAN/old-tf_env.txt
+SimpleGAN/*.txt
+SimpleGAN/*.sh
+.directory
